@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body{
+  text-align: center;
+}
+
+nav a{
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+img {
+  
+}
