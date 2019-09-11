@@ -16,10 +16,16 @@ nav a{
 }
 
 img {
-  width: 900px
+  width: 900px;
 }
 
 p#featured-property{
-  width: 800px
+  width: 800px;
+}
+
+div{
+  background-color: red;
+  width: 25%;
+  
   
 }
