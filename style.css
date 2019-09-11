@@ -23,7 +23,7 @@ p#featured-property{
   width: 800px;
 }
 
-#{
+#details{
   background-color: red;
   width: 25%;
   
